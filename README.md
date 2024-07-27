@@ -11,7 +11,7 @@ Delete Tasks: Users can delete tasks.
 
 Filter Tasks: Users can filter tasks by All, Completed, and Incomplete.
 
-Project Structure
+Project Structure:
 
 index.html: The main HTML file containing the structure of the web app.
 
