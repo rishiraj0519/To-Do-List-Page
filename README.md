@@ -1,7 +1,7 @@
 # To-Do-List-Page
 This To-Do List Web App is a simple, interactive application built using HTML, CSS, and JavaScript. It allows users to add, complete, delete, and filter tasks, helping to manage daily activities effectively.
 
-Features
+Features:
 
 Add Tasks: Users can add new tasks.
 
